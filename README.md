@@ -1,5 +1,3 @@
-# pangenome
-
 
 # Pangenome
 
