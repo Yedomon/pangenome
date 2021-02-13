@@ -4,10 +4,40 @@
 
 - #### 2021 | [Pan-genomes: moving beyond the reference](https://www.nature.com/articles/d42859-020-00115-3)
 
+
+
+```javascript
+
+
+FURTHER READING
+Tettelin, H. et al. Genome analysis of multiple pathogenic isolates of Streptococcus agalactiae: implications for the microbial “pan-genome”. Proc. Natl Acad. Sci. USA 102, 13950–13955 (2005).
+
+Li, R. et al. Building the sequence map of the human pan-genome. Nat. Biotechnol. 28, 57–63 (2010).
+
+Golicz, A. A. et al. The pangenome of an agronomically important crop plant Brassica oleracea. Nat. Commun. 7, 13390 (2016).
+
+Montenegro, J. D. et al. The pangenome of hexaploid bread wheat. Plant J. 90, 1007–1013 (2017).
+
+Zhao, Q. et al. Pan-genome analysis highlights the extent of genomic variation in cultivated and wild rice. Nat. Genet. 50, 278–284 (2018).
+
+Gao, L. et al. The tomato pan-genome uncovers new genes and a rare allele regulating fruit flavor. Nat. Genet. 51, 1044–1051 (2019).
+
+Alonge, M. et al. Major impacts of widespread structural variation on gene expression and crop improvement in tomato. Cell. 182, 145–161 (2020).
+
+Liu, Y. et al. Pan-genome of wild and cultivated soybeans. Cell 182, 162–176 (2020).
+
+
+
+
+```
+
 - #### 2021 | [Targeted plant improvement through genome editing: from laboratory to field](https://link.springer.com/article/10.1007/s00299-020-02655-4)
 - #### 2021 | [Hotter, drier, CRISPR: the latest edit on climate change](https://link.springer.com/article/10.1007/s00122-020-03764-0)
 
 - #### 2021 | [Building pan-genome infrastructures for crop plants and their use in association genetics](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa030/6117190?login=true)
+
+- #### 2016 | [The pangenome of an agronomically important crop plant Brassica oleracea](https://www.nature.com/articles/ncomms13390)
+
 
 - #### [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
 
