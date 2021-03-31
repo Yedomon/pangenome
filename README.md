@@ -2,6 +2,8 @@
 # Pangenome
 
 
+- #### EUPAN TOOLBOX [EUPAN enables pan-genome studies of a large number of eukaryotic genomes](https://academic.oup.com/bioinformatics/article/33/15/2408/3091809?login=true)
+
 - #### Nice review on the application of the pangenome [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
 -
 - #### Great inspiration from my virtual mentor  *Philipp E. Bayer* for R-genes pangenomics [publications](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13262)
