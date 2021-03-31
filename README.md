@@ -2,6 +2,11 @@
 # Pangenome
 
 
+- #### Nice review on the application of the pangenome [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
+-
+- #### Great inspiration from my virtual mentor  *Philipp E. Bayer* for R-genes pangenomics [publications](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13262)
+
+
 - #### [Sesame pangenome](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13022) 
 - #### Tool for multiple whole genome alignment for eucakyotes in a context of pangenome | [SibeliaZ](https://www.nature.com/articles/s41467-020-19777-8) |[Github](https://github.com/medvedevgroup/SibeliaZ) | Conda version available usiong the following command line `conda install -c bioconda sibeliaz`
 - #### [GSAlign: an efficient sequence alignment tool for intra-species genomes](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6569-1)
