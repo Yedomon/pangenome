@@ -48,7 +48,7 @@ ORTHOMCL for the orthologues detection, and they performed the annotation using 
 > For gene function annotation, KEGG pathway analysis was performed using KOBAS 3.0 (Xie et al., 2011), protein domain was annotated by InterProScan 5 (Jones et al., 2014), and Gene Ontology was annotated by PANNZER2 (Törönen et al., 2018). The enrichment test was performed by the ClusterProfiler (Yu et al., 2012) v3.10.1 package in R 3.5.0 (R Development Core Team, 2013). QTL information was obtained from SoyBase (https://www.soybase.org/search/qtllist_by_symbol.php).
 
 
-Definitively, the [soybean pan-genome](https://www.sciencedirect.com/science/article/pii/S0092867420306188?casa_token=_UUFS2Uk31cAAAAA:I7vnED-Tk-_XVb0_7iF-hJCaXAKvEFnQgvZFX5_XEsq6iav-aYP7mEKXtl12dsm5VZfs1-Bh) is an excellent guide for my thesis pangenome.
+Definitively, the [soybean pan-genome](https://www.sciencedirect.com/science/article/pii/S0092867420306188?casa_token=_UUFS2Uk31cAAAAA:I7vnED-Tk-_XVb0_7iF-hJCaXAKvEFnQgvZFX5_XEsq6iav-aYP7mEKXtl12dsm5VZfs1-Bh) is an excellent guide for my pangenome thesis.
 
 
 
