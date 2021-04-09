@@ -1,6 +1,22 @@
 
 # Pangenome
 
+
+Pangenome of sorghum...Great competition between USA and India |  Both team publish a bioarchive preprints.
+
+
+  USA | [Pan-genome Analysis in Sorghum Highlights the Extent of Genomic Variation and Sugarcane Aphid Resistance Genes ](https://www.biorxiv.org/content/10.1101/2021.01.03.424980v1)
+  
+  
+  ![image](https://www.biorxiv.org/content/biorxiv/early/2021/01/04/2021.01.03.424980/F4.large.jpg?width=800&height=600&carousel=1)
+  
+  
+  India | [Sorghum pan-genome explores the functional utility to accelerate the genetic gain](https://www.biorxiv.org/content/10.1101/2021.02.02.429137v1.full)
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/02/03/2021.02.02.429137/F3.large.jpg?width=800&height=600&carousel=1)
+
+
 - #### [The Gap-free Rice Genomes Provide Insights for Centromere Structure and Function Exploration and Graph-based Pan-genome Construction](https://www.biorxiv.org/content/10.1101/2020.12.24.424073v1.full) 
 
 They used vg tookit 
