@@ -5,7 +5,7 @@
 Pangenome of sorghum...Great competition between USA and India |  Both team publish a bioarchive preprints.
 
 
-  USA | [Pan-genome Analysis in Sorghum Highlights the Extent of Genomic Variation and Sugarcane Aphid Resistance Genes ](https://www.biorxiv.org/content/10.1101/2021.01.03.424980v1)
+  USA | [Pan-genome Analysis in Sorghum Highlights the Extent of Genomic Variation and Sugarcane Aphid Resistance Genes ](https://www.biorxiv.org/content/10.1101/2021.01.03.424980v1) | USA Video Presentation by Bo wang from Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, USA [here](https://youtu.be/maOj1iQf4ys)
   
   
   ![image](https://www.biorxiv.org/content/biorxiv/early/2021/01/04/2021.01.03.424980/F4.large.jpg?width=800&height=600&carousel=1)
