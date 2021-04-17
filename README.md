@@ -2,6 +2,14 @@
 # Pangenome
 
 
+
+Nice review from the pioneer of plant pan genomics Agniesca | 2019 | Trends in Genetics |[Pangenomics Comes of Age: From Bacteria to Plant and Animal Applications](https://doi.org/10.1016/j.tig.2019.11.006)
+
+An other one from Lei et al | 2021 | Annual Review of Plant Biology | [Plant Pan-Genomics Comes of Age](https://doi.org/10.1146/annurev-arplant-080720-105454)
+
+
+
+
 Pangenome of sorghum...Great competition between USA and India |  Both team publish a bioarchive preprints.
 
 
