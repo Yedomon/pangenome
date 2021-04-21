@@ -1,6 +1,8 @@
 
 # Pangenome
 
+Pangenome litterature [IRD](https://hal.archives-ouvertes.fr/hal-02053647/document)
+
 
 
 Nice review from the pioneer of plant pan genomics Agniesca | 2019 | Trends in Genetics |[Pangenomics Comes of Age: From Bacteria to Plant and Animal Applications](https://doi.org/10.1016/j.tig.2019.11.006)
