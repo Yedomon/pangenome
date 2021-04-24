@@ -1,6 +1,14 @@
 
 # Pangenome
 
+
+
+New Special Issue: Feeding the World: The Future of Plant Breeding from Rajeev about genomic breeding... Awesome   ..[Designing Future Crops: Genomics-Assisted Breeding Comes of Age](https://www.sciencedirect.com/science/article/pii/S1360138521000698)
+
+
+![img](https://ars.els-cdn.com/content/image/1-s2.0-S1360138521000698-gr2.jpg)
+
+
 Pangenome litterature [IRD](https://hal.archives-ouvertes.fr/hal-02053647/document)
 
 
