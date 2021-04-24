@@ -6,6 +6,16 @@
 New Special Issue: Feeding the World: The Future of Plant Breeding from Rajeev about genomic breeding... Awesome   ..[Designing Future Crops: Genomics-Assisted Breeding Comes of Age](https://www.sciencedirect.com/science/article/pii/S1360138521000698)
 
 
+a quote
+
+
+
+> The caveats associated with fragmented genome
+assemblies came to the fore and a pressing need was to construct more genome sequences
+representative of species (pangenome) or even the entire genus (super-pangenome) in order
+to capture a comprehensive view of genetic diversity that spans the entire crop gene pool
+
+
 ![img](https://ars.els-cdn.com/content/image/1-s2.0-S1360138521000698-gr2.jpg)
 
 
