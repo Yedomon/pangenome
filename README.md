@@ -1,6 +1,13 @@
 
 # Pangenome
 
+Breaking news | Cotton pangenome out
+
+
+[Cotton pan-genome retrieves the lost sequences and genes during domestication and selection](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02351-w#Sec10)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02351-w/MediaObjects/13059_2021_2351_Fig2_HTML.png?as=webp)
+
 
 
 New Special Issue: Feeding the World: The Future of Plant Breeding from Rajeev about genomic breeding... Awesome   ..[Designing Future Crops: Genomics-Assisted Breeding Comes of Age](https://www.sciencedirect.com/science/article/pii/S1360138521000698)
