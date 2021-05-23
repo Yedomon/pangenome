@@ -13,7 +13,7 @@ Breaking New today 23 May 2021 Sorghum Pangenome from another team Out
 [Code availability](https://github.com/xujiabao507/Sorghum_pangenome)
 
 
-
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-021-00925-x/MediaObjects/41477_2021_925_Fig1_HTML.png?as=webp)
 
 
 
