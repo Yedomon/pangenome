@@ -1,6 +1,25 @@
 
 # Pangenome
 
+
+
+Breaking New today 23 May 2021 Sorghum Pangenome from another team Out
+
+
+
+[Extensive variation within the pan-genome of cultivated and wild sorghum](https://www.nature.com/articles/s41477-021-00925-x)
+
+
+[Code availability](https://github.com/xujiabao507/Sorghum_pangenome)
+
+
+
+
+
+
+
+
+
 Breaking news | Cotton pangenome out
 
 
