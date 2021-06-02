@@ -3,6 +3,13 @@
 
 
 
+
+[How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-02224-8/MediaObjects/13059_2020_2224_Fig3_HTML.png?as=webp)
+
+
 Cai, Chang, Wang & co construct a pan-genome of Brassica rapa from 18 genomes covering different morphologies. They infer the ancestral genome, and construct a graph genome, which they use to genotype SVs in 524 accessions. Leafy head linked to a deletion.
 
 [Impacts of allopolyploidization and structural variation on intraspecific diversification in Brassica rapa](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02383-2#Sec16)
