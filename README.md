@@ -109,6 +109,9 @@ Moreover here in [Building pan-genome infrastructures for crop plants and their 
 
 
 
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/dnaresearch/28/1/10.1093_dnares_dsaa030/1/dsaa030f1.png?Expires=1626439455&Signature=L-Phvqz9S8J9smvSs4E-Fn0D7VP4HNJX1uIgxpTuUkvqNKGMH-Ubmvc1fXpXm1KI~4CjoPkBVXMagBhb0fxEst2ImqKGGvlvs~U6NMUyu30E57IWt0NgBwEbOOKBagKLw6P605acK5IUTlhIRQmGK~tOqvyvW-9rWurdCB5hU501nYXGZQTgJsIlIivykl-AIO0tC-euvv6LbzWt55IfDaIMpUfwJHGJiXuamyZKIpH9Rj2wT4ZAHfnRSgkPIVocZ267Nps7SZCZgSCu041obMCmbNHoA4lFnnp~vyXyauSFTwpTJnAWBBc0zkC30vF0T8aNHSFjtRInKy0RztNkzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
 
 
 The [soybean pangenome paper](https://www.sciencedirect.com/science/article/pii/S0092867420306188?casa_token=_UUFS2Uk31cAAAAA:I7vnED-Tk-_XVb0_7iF-hJCaXAKvEFnQgvZFX5_XEsq6iav-aYP7mEKXtl12dsm5VZfs1-Bh) finaly show me that vg is for structural variation detection...After constructing the graph base pangenome, it is possible to call variant with thousand of genotypes. They used mummer and vg for this section.
