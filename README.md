@@ -2,6 +2,9 @@
 # Pangenome
 
 
+
+[Plantae blog](https://plantae.org/pan-genome-analysis-of-33-genetically-diverse-rice-accessions-reveals-hidden-genomic-variations-cell/)
+
 [Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://www.sciencedirect.com/science/article/pii/S009286742100581X)
 
 
