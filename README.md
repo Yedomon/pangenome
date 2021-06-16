@@ -2,6 +2,18 @@
 # Pangenome
 
 
+[Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://www.sciencedirect.com/science/article/pii/S009286742100581X)
+
+
+![img](https://ars.els-cdn.com/content/image/1-s2.0-S009286742100581X-gr1.jpg)
+
+
+
+
+
+
+
+
 
 
 [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
