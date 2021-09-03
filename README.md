@@ -3,6 +3,16 @@
 
 
 
+[Genomic approaches for studying crop evolution](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1528-8)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1528-8/MediaObjects/13059_2018_1528_Fig3_HTML.png?as=webp)
+
+
+[Yam genomics supports west Africa as a major cradle of crop domestication](https://www.science.org/doi/10.1126/sciadv.aaw1947)
+
+![img](https://www.science.org/cms/10.1126/sciadv.aaw1947/asset/a5b0544d-0006-4426-9f0f-e749cbfa2b76/assets/graphic/aaw1947-f4.jpeg)
+
+
 [Plantae blog](https://plantae.org/pan-genome-analysis-of-33-genetically-diverse-rice-accessions-reveals-hidden-genomic-variations-cell/)
 
 [Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://www.sciencedirect.com/science/article/pii/S009286742100581X)
