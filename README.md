@@ -3,6 +3,10 @@
 
 
 
+[A    pan-genome and chromosome-length reference genome of narrow-leafed lupin (Lupinus angustifolius) reveals genomic diversity and insights into key industry and biological traits]()
+
+
+
 [Genomic approaches for studying crop evolution](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1528-8)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1528-8/MediaObjects/13059_2018_1528_Fig3_HTML.png?as=webp)
