@@ -3,6 +3,12 @@
 
 
 
+[Graph-based pan-genome: increased opportunities in plant genomics](https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erac412/6762754?login=false)
+
+
+
+
+
 [A    pan-genome and chromosome-length reference genome of narrow-leafed lupin (Lupinus angustifolius) reveals genomic diversity and insights into key industry and biological traits](https://github.com/Yedomon/pangenome/blob/main/The%20Plant%20Journal%20-%202022%20-%20Garg%20-%20A%20pan%E2%80%90genome%20and%20chromosome%E2%80%90length%20reference%20genome%20of%20narrow%E2%80%90leafed%20lupin%20%20Lupinus.pdf)
 
 
