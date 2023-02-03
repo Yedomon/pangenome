@@ -1,6 +1,8 @@
 
 # Pangenome
 
+[Plant pan-genomics: recent advances, new challenges, and roads ahead](https://www.sciencedirect.com/science/article/pii/S167385272200162X)
+
 
 
 [Graph-based pan-genome: increased opportunities in plant genomics](https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erac412/6762754?login=false)
