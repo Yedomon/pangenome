@@ -1,6 +1,17 @@
 
 # Pangenome
 
+[Pangenomic analysis identifies structural variation associated with heat tolerance in pearl millet](https://www.nature.com/articles/s41588-023-01302-4)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01302-4/MediaObjects/41588_2023_1302_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
 [Plant pan-genomics: recent advances, new challenges, and roads ahead](https://www.sciencedirect.com/science/article/pii/S167385272200162X)
 
 
