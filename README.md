@@ -1,6 +1,22 @@
 
 # Pangenome
 
+
+[A graph-based genome and pan-genome variation of the model plant Setaria](https://www.nature.com/articles/s41588-023-01423-w) | [Code github](https://github.com/qiangh06/Setaria-pan-genome/tree/main) | 
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01423-w/MediaObjects/41588_2023_1423_Fig1_HTML.png?as=webp)
+
+
+
+Tweet === > `https://twitter.com/RJABuggs/status/1667073518721286145`
+
+Paper ===> [Transposon signatures of allopolyploid genome evolution](https://www.nature.com/articles/s41467-023-38560-z)  
+
+[Code github](https://github.com/amsession/Kmer-based-Subgenome-Mapping)
+
+
+
+
 [Pangenomic analysis identifies structural variation associated with heat tolerance in pearl millet](https://www.nature.com/articles/s41588-023-01302-4)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01302-4/MediaObjects/41588_2023_1302_Fig1_HTML.png?as=webp)
