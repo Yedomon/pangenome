@@ -2,6 +2,21 @@
 # Pangenome
 
 
+[A pangenome reference of 36 Chinese populations](https://www.nature.com/articles/s41586-023-06173-7#code-availability)
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig3_HTML.png?as=webp)
+
+
+[A draft human pangenome reference](https://www.nature.com/articles/s41586-023-05896-x)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-05896-x/MediaObjects/41586_2023_5896_Fig1_HTML.png?as=webp)
+
+
+Editing and scientific illustration services https://www.letpub.com/
+
+
+
+
+
 [A graph-based genome and pan-genome variation of the model plant Setaria](https://www.nature.com/articles/s41588-023-01423-w) | [Code github](https://github.com/qiangh06/Setaria-pan-genome/tree/main) | 
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01423-w/MediaObjects/41588_2023_1423_Fig1_HTML.png?as=webp)
