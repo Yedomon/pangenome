@@ -2,6 +2,15 @@
 # Pangenome
 
 
+[Pan-genome analysis highlights the role of structural variation in the evolution and environmental adaptation of Asian honeybees](https://www.biorxiv.org/content/10.1101/2023.06.15.545041v1) | [Tweet](https://twitter.com/rmwaterhouse/status/1669777524883161095) | [Code](https://github.com/Liyancan233/A.cerana-Pan-genome)
+
+
+
+
+
+
+
+
 [A pangenome reference of 36 Chinese populations](https://www.nature.com/articles/s41586-023-06173-7#code-availability)
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig3_HTML.png?as=webp)
 
