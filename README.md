@@ -5,7 +5,7 @@
 [A Citrullus genus super-pangenome reveals extensive variations in wild and cultivated watermelons and sheds light on watermelon evolution and domestication](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.14120)
 
 
-![img](https://onlinelibrary.wiley.com/cms/asset/d407582f-81da-4f5a-bf5f-c65c08922cdb/pbi14120-fig-0001-m.jpg)
+![img]([https://onlinelibrary.wiley.com/cms/asset/d407582f-81da-4f5a-bf5f-c65c08922cdb/pbi14120-fig-0001-m.jpg](https://onlinelibrary.wiley.com/cms/asset/d407582f-81da-4f5a-bf5f-c65c08922cdb/pbi14120-fig-0001-m.jpg))
 
 
 
