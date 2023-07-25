@@ -2,6 +2,17 @@
 # Pangenome
 
 
+[A Citrullus genus super-pangenome reveals extensive variations in wild and cultivated watermelons and sheds light on watermelon evolution and domestication](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.14120)
+
+
+![img](https://onlinelibrary.wiley.com/cms/asset/d407582f-81da-4f5a-bf5f-c65c08922cdb/pbi14120-fig-0001-m.jpg)
+
+
+
+
+
+
+
 [Pan-genome analysis highlights the role of structural variation in the evolution and environmental adaptation of Asian honeybees](https://www.biorxiv.org/content/10.1101/2023.06.15.545041v1) | [Tweet](https://twitter.com/rmwaterhouse/status/1669777524883161095) | [Code](https://github.com/Liyancan233/A.cerana-Pan-genome)
 
 
