@@ -18,4 +18,3 @@
 - 2017 | [Ph.D. students face significant mental health challenges](https://www.science.org/content/article/phd-students-face-significant-mental-health-challenges)
 
 
-- []()
