@@ -1,6 +1,6 @@
 
 
-- 2023 [“How is your thesis going?”–Ph.D. students’ perspectives on mental health and stress in academia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
+- 2023 | [“How is your thesis going?”–Ph.D. students’ perspectives on mental health and stress in academia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
 
 - 2022 | [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
 - 2022 | [‘You have to suffer for your PhD’: poor mental health among doctoral researchers – new research](https://theconversation.com/you-have-to-suffer-for-your-phd-poor-mental-health-among-doctoral-researchers-new-research-174096)
