@@ -1,6 +1,15 @@
 
 # Pangenome
 
+[The pan-genome and local adaptation of Arabidopsis thaliana](https://www.nature.com/articles/s41467-023-42029-4)
+
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-42029-4/MediaObjects/41467_2023_42029_Fig1_HTML.png?as=webp)
+
+
+
 
 [A Citrullus genus super-pangenome reveals extensive variations in wild and cultivated watermelons and sheds light on watermelon evolution and domestication](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.14120)
 
