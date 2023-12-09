@@ -1,6 +1,24 @@
 
 # Pangenome
 
+
+[Pan-genome analysis reveals genomic variations associated with domestication traits in broomcorn millet](https://www.nature.com/articles/s41588-023-01571-z)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01571-z/MediaObjects/41588_2023_1571_Fig1_HTML.png?as=webp)
+
+
+[Code]()
+
+
+
+
+
+
+
+
+
+
+
 [The pan-genome and local adaptation of Arabidopsis thaliana](https://www.nature.com/articles/s41467-023-42029-4)
 
 
