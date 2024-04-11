@@ -1,6 +1,15 @@
 
 # Pangenome
 
+[A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range](https://www.nature.com/articles/s41588-024-01715-9)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01715-9/MediaObjects/41588_2024_1715_Fig1_HTML.png?as=webp)
+
+
+[Code availability](https://github.com/Yedomon/pangenome/tree/main/Pan_Ath-main/Pan_Ath-main)
+
+
+
 
 [Pan-genome analysis reveals genomic variations associated with domestication traits in broomcorn millet](https://www.nature.com/articles/s41588-023-01571-z)
 
