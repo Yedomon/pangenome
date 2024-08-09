@@ -1,6 +1,14 @@
 
 # Pangenome
 
+
+
+[Pan-genome analysis of 13 Spinacia accessions reveals structural variations associated with sex chromosome evolution and domestication traits in spinach](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14433)img
+
+![img](https://onlinelibrary.wiley.com/cms/asset/6c8402e9-76ec-47a4-85cc-c4c6c49e69d7/pbi14433-fig-0001-m.jpg)
+
+
+
 [A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range](https://www.nature.com/articles/s41588-024-01715-9)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01715-9/MediaObjects/41588_2024_1715_Fig1_HTML.png?as=webp)
