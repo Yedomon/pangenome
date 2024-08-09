@@ -3,7 +3,7 @@
 
 
 
-[Pan-genome analysis of 13 Spinacia accessions reveals structural variations associated with sex chromosome evolution and domestication traits in spinach](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14433)img
+[Pan-genome analysis of 13 Spinacia accessions reveals structural variations associated with sex chromosome evolution and domestication traits in spinach](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14433)
 
 ![img](https://onlinelibrary.wiley.com/cms/asset/6c8402e9-76ec-47a4-85cc-c4c6c49e69d7/pbi14433-fig-0001-m.jpg)
 
