@@ -3,6 +3,23 @@
 
 
 
+
+
+[Pan-genome and phylogenomic analyses highlight Hevea species delineation and rubber trait evolution](https://www.nature.com/articles/s41467-024-51031-3)
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-51031-3/MediaObjects/41467_2024_51031_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
+
 [Pan-genome analysis of 13 Spinacia accessions reveals structural variations associated with sex chromosome evolution and domestication traits in spinach](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14433)
 
 ![img](https://github.com/Yedomon/pangenome/blob/main/pbi14433-fig-0001-m.jpg)
