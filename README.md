@@ -2,7 +2,10 @@
 # Pangenome
 
 
+[Haplotype-based pangenomes reveal genetic variations and climate adaptations in moso bamboo populations](https://www.nature.com/articles/s41467-024-52376-5)
 
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-52376-5/MediaObjects/41467_2024_52376_Fig1_HTML.png?as=webp)
 
 
 [Pan-genome and phylogenomic analyses highlight Hevea species delineation and rubber trait evolution](https://www.nature.com/articles/s41467-024-51031-3)
