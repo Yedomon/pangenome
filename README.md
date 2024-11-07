@@ -2,6 +2,21 @@
 # Pangenome
 
 
+
+[Structural variation reshapes population gene expression and trait variation in 2,105 Brassica napus accessions](https://www.nature.com/articles/s41588-024-01957-7?fromPaywallRec=false)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01957-7/MediaObjects/41588_2024_1957_Fig1_HTML.png?as=webp)
+
+
+
+
+[Grapevine pangenome facilitates trait genetics and genomic breeding](https://www.nature.com/articles/s41588-024-01967-5)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01967-5/MediaObjects/41588_2024_1967_Fig1_HTML.png?as=webp)
+
+
+
 [Haplotype-based pangenomes reveal genetic variations and climate adaptations in moso bamboo populations](https://www.nature.com/articles/s41467-024-52376-5)
 
 
