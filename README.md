@@ -2,6 +2,14 @@
 # Pangenome
 
 
+Pangenome graph
+
+
+- Garrisson et al. 2024 - [Building pangenome graphs](https://www.nature.com/articles/s41592-024-02430-3)
+- Grosa et al. 2024 - [Pangenome graphs improve the analysis of structural variants in rare genetic diseases](https://www.nature.com/articles/s41467-024-44980-2#code-availability)
+
+- Glenn et al. 2023 - [Pangenome graph construction from genome alignments with Minigraph-Cactus](https://www.nature.com/articles/s41587-023-01793-w)
+
 
 [Structural variation reshapes population gene expression and trait variation in 2,105 Brassica napus accessions](https://www.nature.com/articles/s41588-024-01957-7?fromPaywallRec=false)
 
