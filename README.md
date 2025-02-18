@@ -2,6 +2,13 @@
 # Pangenome
 
 
+- 2025 |  [The Marchantia polymorpha pangenome reveals ancient mechanisms of plant adaptation to the environment](https://www.nature.com/articles/s41588-024-02071-4#Abs1) - [Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564390v1.full)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-02071-4/MediaObjects/41588_2024_2071_Fig1_HTML.png?as=webp)
+
+
+
+
 Pangenome graph
 
 
