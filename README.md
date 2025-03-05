@@ -1,5 +1,12 @@
 
 # Pangenome
+
+
+- 2025 | [Super pangenome of Vitis empowers identification of downy mildew resistance genes for grapevine improvement](https://www.nature.com/articles/s41588-025-02111-7)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02111-7/MediaObjects/41588_2025_2111_Fig1_HTML.png?as=webp)
+
 - 2025 | [A pangenome reveals LTR repeat dynamics as a major driver of genome evolution in Chenopodium](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.70010)
 
   > 2.9 De novo annotation
