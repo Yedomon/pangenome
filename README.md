@@ -1,6 +1,9 @@
 
 # Pangenome
+- 2025 | [A pangenome reveals LTR repeat dynamics as a major driver of genome evolution in Chenopodium](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.70010)
 
+  > 2.9 De novo annotation
+Prior to annotation, repetitive elements were identified and masked using RepeatModeler2 v2.0.1 (Flynn et al., 2020) and RepeatMasker v.4.1.2 (Smit et al., 2013–2015) using methods detailed more fully in Section 2.12. To standardize the annotation across the genomes, we de novo annotated each soft-masked genome with Braker3 v.3.0.7 (Gabriel et al., 2024) using a genus-level IsoSeq dataset consisting of the combined raw IsoSeq data (see Section 2.8) as primary evidence. The Viridiplantae OrthoDB v.11 (Kuznetsov et al., 2023), Caryophyllales UniProtKB (www.uniprot.org/uniprotkb), and the NCBI Caryophyllales RefSeq (www.ncbi.nlm.nih.gov/protein) databases served as training evidence for AUGUSTUS. Braker3 initially trains GeneMark ETP with the OrthoDB proteins and IsoSeq hints and then subsequently trains AUGUSTUS based on GeneMark ETP predictions. This process results in a set of gene models predicted by AUGUSTUS, and these AUGUSTUS and GeneMark ETP gene models are then combined using TSEBRA. Functional annotation and gene ontology terms (PANTHER-15.0, Pfam-33.1, PIRSF-3.10, PIRSR-2021_02, PRINTS-42.0, and SUPERFAMILY-1.75) were added to the gene models using BLASTp (e-value < 1.0e-6; Ye et al., 2006) by querying predicted protein models against the Swiss-Prot (downloaded 7/2023) and InterProScan (Jones et al., 2014) databases, respectively. The completeness of the annotations for each species was evaluated with BUSCO v5 (Manni et al., 2021) using the Embryophyta protein dataset.
 
 - 2025 |  [The Marchantia polymorpha pangenome reveals ancient mechanisms of plant adaptation to the environment](https://www.nature.com/articles/s41588-024-02071-4#Abs1) - [Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564390v1.full)
 
