@@ -1,6 +1,17 @@
 
 # Pangenome
 
+-2025 | [Analysis of allohexaploid wheatgrass genome reveals its Y haplome origin in Triticeae and high-altitude adaptation](https://www.nature.com/articles/s41467-025-58341-0)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-58341-0/MediaObjects/41467_2025_58341_Fig1_HTML.png?as=webp)
+
+
+[Code]()
+
+> Gene function annotation
+To determine the functional role of the protein-coding genes, comprehensive searches were performed in multiple databases, including Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), and Cluster of Orthologous Groups of proteins (KOG/COG/eggNOG) based on eggnog-mapper v2.1.683; SwissProt, TrEMBL and Non-Redundant Proteins (NR) by using DIAMOND v2.0.1484; and Pfam by applying InterProScan v5.54-87.085. Furthermore, the DeepGO tool86was used to predict protein functions based on both sequence and protein-protein interaction data, using a deep ontology-aware classifier.
+
+
 
 - 2025 | [Super pangenome of Vitis empowers identification of downy mildew resistance genes for grapevine improvement](https://www.nature.com/articles/s41588-025-02111-7)  Code availability
 
