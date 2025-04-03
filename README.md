@@ -13,7 +13,7 @@ To determine the functional role of the protein-coding genes, comprehensive sear
 
 
 
-- 2025 | [Super pangenome of Vitis empowers identification of downy mildew resistance genes for grapevine improvement](https://www.nature.com/articles/s41588-025-02111-7)  Code availability
+- 2025 | [Super pangenome of Vitis empowers identification of downy mildew resistance genes for grapevine improvement](https://www.nature.com/articles/s41588-025-02111-7)  [Code availability](https://github.com/xiongyi95/Elymus_nutans-genome-origin-and-evolution.git)
 
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02111-7/MediaObjects/41588_2025_2111_Fig1_HTML.png?as=webp)
