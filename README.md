@@ -1,6 +1,12 @@
 
 # Pangenome
 
+
+-2025 | [A pangenome reference of wild and cultivated rice](https://github.com/Yedomon/bioinformatics101/blob/main/A_pangenome_reference_of_wild_and_cultivated_rice.pdf)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08883-6/MediaObjects/41586_2025_8883_Fig1_HTML.png?as=webp)
+
 -2025 | [Analysis of allohexaploid wheatgrass genome reveals its Y haplome origin in Triticeae and high-altitude adaptation](https://www.nature.com/articles/s41467-025-58341-0)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-58341-0/MediaObjects/41467_2025_58341_Fig1_HTML.png?as=webp)
