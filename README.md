@@ -2,7 +2,7 @@
 # Pangenome
 
 
--2025 | [A pangenome reference of wild and cultivated rice](https://github.com/Yedomon/bioinformatics101/blob/main/A_pangenome_reference_of_wild_and_cultivated_rice.pdf)
+-2025 | [A pangenome reference of wild and cultivated rice](https://github.com/Yedomon/bioinformatics101/blob/main/A_pangenome_reference_of_wild_and_cultivated_rice.pdf) | [Code availability](https://github.com/Yedomon/pangenome/tree/main/Wild-rice-Pangenome-Project-main/Wild-rice-Pangenome-Project-main)
 
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08883-6/MediaObjects/41586_2025_8883_Fig1_HTML.png?as=webp)
