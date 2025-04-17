@@ -1,7 +1,9 @@
 
 # Pangenome
 
+- 2025 | [Pan-genome analysis reveals the evolution and diversity of Malus](https://github.com/Yedomon/pangenome/blob/main/Pan-genome_analysis_reveals_the_evolution_and_diversity_of_Malus.pdf)
 
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02166-6/MediaObjects/41588_2025_2166_Fig1_HTML.png?as=webp)
 -2025 | [A pangenome reference of wild and cultivated rice](https://github.com/Yedomon/bioinformatics101/blob/main/A_pangenome_reference_of_wild_and_cultivated_rice.pdf) | [Code availability](https://github.com/Yedomon/pangenome/tree/main/Wild-rice-Pangenome-Project-main/Wild-rice-Pangenome-Project-main)
 
 
