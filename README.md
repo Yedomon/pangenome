@@ -1,6 +1,10 @@
 
 # Pangenome
 
+- 2025 | [Pan-genomic analysis highlights genes associated with agronomic traits and enhances genomics-assisted breeding in alfalfa](https://github.com/Yedomon/pangenome/blob/main/Pan_genomic_analysis_highlights_genes_associated_with_agronomic_traits_and_enhances_genomics_assisted_breeding_in_alfalfa.pdf)
+
+  ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02164-8/MediaObjects/41588_2025_2164_Fig1_HTML.png?as=webp)
+
 - 2025 | [Pan-genome analysis reveals the evolution and diversity of Malus](https://github.com/Yedomon/pangenome/blob/main/Pan-genome_analysis_reveals_the_evolution_and_diversity_of_Malus.pdf)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02166-6/MediaObjects/41588_2025_2166_Fig1_HTML.png?as=webp)
