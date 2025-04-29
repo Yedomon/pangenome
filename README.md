@@ -1,6 +1,13 @@
 
 # Pangenome
 
+
+- 2025 | [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) | [PDF](https://github.com/Yedomon/pangenome/blob/main/Oryza_genome_evolution_through_a_tetraploid_lens.pdf)
+
+  ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02183-5/MediaObjects/41588_2025_2183_Fig1_HTML.png?as=webp)
+
+  Code availability [1](https://github.com/Yedomon/pangenome/tree/main/alicefornasiero-IOMAP-3-e5f2e41) | [2](https://github.com/Yedomon/pangenome/tree/main/rice_cp_phylo_analysis-main) |  [3](https://github.com/Yedomon/pangenome/tree/main/Rice-Phylogenomics-main/Rice-Phylogenomics-main) | [4](https://github.com/Yedomon/pangenome/tree/main/Oryza_coarctata_expression-main/Oryza_coarctata_expression-main) |
+
 - 2025 | [Pan-genomic analysis highlights genes associated with agronomic traits and enhances genomics-assisted breeding in alfalfa](https://github.com/Yedomon/pangenome/blob/main/Pan_genomic_analysis_highlights_genes_associated_with_agronomic_traits_and_enhances_genomics_assisted_breeding_in_alfalfa.pdf)
 
   ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02164-8/MediaObjects/41588_2025_2164_Fig1_HTML.png?as=webp)
