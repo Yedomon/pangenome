@@ -1,0 +1,19 @@
+The current pipeline was used in our rice genome evolution paper to understand the i. comparative expression pattern between homoeologous and non-homoeologous genes in Oryza coarctata; ii. comparative expression pattern between homologous and non-homologous genes in Oryza coarctata and Oryza sativa. The whole pipeline can perform the following functions:
+
+1. Identification of homoeologous and non-homoeologous genes between two sub-genomes of Oryza coarctata.
+
+2. Identification of homologous and non-homologous genes between Oryza coarctata and Oryza sativa.
+
+3. Map the raw RNAseq reads to the genomes and calculate each gene's transcript per million (TPM).
+
+4. Investigate the expression pattern.
+
+Prerequisites
+
+Linux shell and Perl are the main requirements for this pipeline, along with the publicly available tools fastQC, tophat2, eagle-RC, TPMcalculator and R.
+
+Instructions
+
+Please keep all the read data and script in one directory and run the pipeline. The sh shell script will run all the steps and produce the final box plot and tables.
+
+In only one step, we need to manually curate a text file named single_copy_homolog_Os_Oc.txt. Some of the Os genes showed hits with both KK and LL, but those KK-LL genes are not in homoeologous pairs. There were around 600 genes, so we removed them from the SCH list.
