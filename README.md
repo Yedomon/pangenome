@@ -1,7 +1,14 @@
 
 # Pangenome
 
+- 2025 | [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) [PDF]()
 
+
+
+  ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02170-w/MediaObjects/41588_2025_2170_Fig1_HTML.png?as=webp)
+
+
+  
 - 2025 | [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) | [PDF](https://github.com/Yedomon/pangenome/blob/main/Oryza_genome_evolution_through_a_tetraploid_lens.pdf)
 
   ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02183-5/MediaObjects/41588_2025_2183_Fig1_HTML.png?as=webp)
