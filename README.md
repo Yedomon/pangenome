@@ -1,7 +1,10 @@
 
 # Pangenome
 
-- 2025 | [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) [PDF]()
+
+- 2025 | [An Australian chickpea pan-genome provides insights into genome organization and offers opportunities for enhancing drought adaptation for crop improvement](https://onlinelibrary.wiley.com/doi/10.1111/pbi.70192)
+
+- 2025 | [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) [PDF](https://github.com/Yedomon/pangenome/blob/main/Pangenome_Peanut.pdf)
 
 
 
