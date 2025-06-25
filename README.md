@@ -1,7 +1,10 @@
 
 # Pangenome
 
+- 2025 | [Pan-genome and haplotype map of cassava cultivars and wild ancestors provide insights into its adaptive evolution and domestication](https://www.cell.com/molecular-plant/fulltext/S1674-2052(25)00173-X?s=03)
 
+  ![img](https://www.cell.com/cms/10.1016/j.molp.2025.05.014/asset/df7b032f-8720-459a-9503-7f1d0a856674/main.assets/gr2_lrg.jpg)
+  
 - 2025 | [An Australian chickpea pan-genome provides insights into genome organization and offers opportunities for enhancing drought adaptation for crop improvement](https://onlinelibrary.wiley.com/doi/10.1111/pbi.70192)
 
 - 2025 | [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) [PDF](https://github.com/Yedomon/pangenome/blob/main/Pangenome_Peanut.pdf)
