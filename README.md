@@ -1,6 +1,8 @@
 
 # Pangenome
+- 2025 | [Pangenome analysis provides insights into legume evolution and breeding](https://www.nature.com/articles/s41588-025-02280-5)
 
+- 
 - 2025 | [Pan-genome and haplotype map of cassava cultivars and wild ancestors provide insights into its adaptive evolution and domestication](https://www.cell.com/molecular-plant/fulltext/S1674-2052(25)00173-X?s=03)
 
   ![img](https://github.com/Yedomon/pangenome/blob/main/cassava_pangenome.jpg)
