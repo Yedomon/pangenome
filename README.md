@@ -2,7 +2,10 @@
 # Pangenome
 - 2025 | [Pangenome analysis provides insights into legume evolution and breeding](https://www.nature.com/articles/s41588-025-02280-5)
 
-- 
+- 2025 | [Lactuca super-pangenome provides insights into lettuce genome evolution and domestication](https://www.nature.com/articles/s41467-025-62641-w)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-62641-w/MediaObjects/41467_2025_62641_Fig2_HTML.png?as=webp)
+  
 - 2025 | [Pan-genome and haplotype map of cassava cultivars and wild ancestors provide insights into its adaptive evolution and domestication](https://www.cell.com/molecular-plant/fulltext/S1674-2052(25)00173-X?s=03)
 
   ![img](https://github.com/Yedomon/pangenome/blob/main/cassava_pangenome.jpg)
