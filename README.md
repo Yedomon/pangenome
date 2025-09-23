@@ -1,5 +1,23 @@
 
 # Pangenome
+
+- 2025 | [Bryophytes hold a larger gene family space than vascular plants](https://www.nature.com/articles/s41588-025-02325-9)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02325-9/MediaObjects/41588_2025_2325_Fig1_HTML.png?as=webp)
+
+
+Pangenome analyses of bryophytes and tracheophytes.
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02325-9/MediaObjects/41588_2025_2325_Fig2_HTML.png?as=webp)
+
+
+The landscape of HGTs in streptophytes.
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02325-9/MediaObjects/41588_2025_2325_Fig3_HTML.png?as=webp)
+
+
 - 2025 | [Pangenome analysis provides insights into legume evolution and breeding](https://www.nature.com/articles/s41588-025-02280-5)
 
 - 2025 | [Lactuca super-pangenome provides insights into lettuce genome evolution and domestication](https://www.nature.com/articles/s41467-025-62641-w)
