@@ -1,6 +1,7 @@
 
 # Pangenome
-
+- 2026 | [Structure and sequence evolution in thepennycress (Thlaspi arvense) pangenome](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.71111)
+  ![img](https://nph.onlinelibrary.wiley.com/cms/asset/b0b4dd4c-4462-41bb-8f36-ad036f50d0c8/nph71111-fig-0003-m.jpg)
 - 2025 | [Bryophytes hold a larger gene family space than vascular plants](https://www.nature.com/articles/s41588-025-02325-9)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02325-9/MediaObjects/41588_2025_2325_Fig1_HTML.png?as=webp)
