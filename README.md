@@ -1,5 +1,11 @@
 
 # Pangenome
+
+[A sorghum pangenome reference improves global crop trait discovery](https://www.nature.com/articles/s41586-026-10229-9#Sec9)
+
+> A pangenome graph was constructed for each chromosome using Minigraph-Cactus and default settings (v.2.9.3)76 with the BTx623 V5 genome as the primary reference. Clipped chromosome graphs were merged and prepared for visualization using vg (v.1.59.0)77. We used ODGI (v.0.9.0)78 to inspect representation of each genome across the graph and sequenceTubeMap (v.0.1.0)79 to visualize variation in genomic regions of interest. For the dhurrin BGC and SH1 loci, we further processed this graph with vg and vcfwave (vcflib v.1.0.10)80 to reduce allelic complexity and retain only variants ≥5 kb and ≥1 kb in length, respectively.
+This could be useful for my project https://vgteam.github.io/sequenceTubeMap/
+
 - 2026 | [Structure and sequence evolution in thepennycress (Thlaspi arvense) pangenome](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.71111)
   ![img](https://nph.onlinelibrary.wiley.com/cms/asset/b0b4dd4c-4462-41bb-8f36-ad036f50d0c8/nph71111-fig-0003-m.jpg)
 - 2025 | [Bryophytes hold a larger gene family space than vascular plants](https://www.nature.com/articles/s41588-025-02325-9)
